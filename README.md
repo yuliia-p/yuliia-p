@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! My name is Yuliia! 👋
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yuliia-pch/).
 
 <!--
 **yuliia-p/yuliia-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
