@@ -1,8 +1,5 @@
 ## Hi there! My name is Yuliia! 👋
 
-#### Technologies and tools: JavaScript | React | Node.js | CSS | HTML
-
-
 Connect with me on [LinkedIn](https://www.linkedin.com/in/yuliia-pch/).
 
 <!--
